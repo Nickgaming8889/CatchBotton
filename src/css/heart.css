@@ -1,9 +1,9 @@
 .heart {
-    width: 80px;
-    height: 80px;
+    width: 100px;
+    height: 100px;
     background-color: white;
     transform: rotate(45deg);
-    margin: auto;
+    margin: 0 auto 20px;
     position: relative;
     border-radius: 2px;
 }
